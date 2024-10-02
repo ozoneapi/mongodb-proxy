@@ -11,5 +11,5 @@ entries:
     type: application
     urls:
     - https://github.com/ozoneapi/mongodb-proxy/releases/download/mongodb-proxy-0.1.0/mongodb-proxy-0.1.0.tgz
-    version: 1.0.0
+    version: 0.1.0
 generated: "2024-10-02T00:00:00Z"
