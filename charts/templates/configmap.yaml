@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: dante-config
-  namespace: {{ .Values.namespace }}
-data:
-  sockd.conf: |
-{{ .Values.config.sockdConfig | indent 4 }}
-
