@@ -10,7 +10,7 @@ entries:
     name: gatewayapi-crds-experimental
     type: application
     urls:
-    - https://github.com/OzoneAPI/gatewayapi-crds/releases/download/gatewayapi-crds-experimental-1.0.0/gatewayapi-crds-experimental-1.0.0.tgz
+    - https://github.com/ozoneapi/mongodb-proxy/releases/tag/mongodb-proxy-0.1.0
     version: 1.0.0
   gatewayapi-crds-standard:
   - apiVersion: v2
@@ -22,6 +22,6 @@ entries:
     name: gatewayapi-crds-standard
     type: application
     urls:
-    - https://github.com/OzoneAPI/gatewayapi-crds/releases/download/gatewayapi-crds-standard-1.0.0/gatewayapi-crds-standard-1.0.0.tgz
+    - https://github.com/ozoneapi/mongodb-proxy/releases/tag/mongodb-proxy-0.1.0
     version: 1.0.0
 generated: "2024-01-03T11:06:39.460108944Z"
